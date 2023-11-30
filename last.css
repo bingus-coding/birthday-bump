@@ -1,0 +1,51 @@
+/* .body {
+  background-color: #fff8c9;
+} */
+body {
+  background-image: linear-gradient(
+    to right,
+    #fff8c9,
+    #fff8c9,
+    #fff8c9,
+    #fff8c9,
+    #fff8c9
+  );
+}
+.contain {
+  margin-top: 70px;
+  margin-left: 300px;
+}
+.bg-image {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  text-align: left;
+  margin-left: -20px;
+}
+.center {
+  position: absolute;
+  top: 260px;
+  left: 40px;
+  text-align: justify;
+}
+img {
+  width: 800px;
+  margin-left: -60px;
+}
+p {
+  font-size: 23px;
+  font-family: "Kalam", cursive;
+}
+#address {
+  font-size: 20px;
+}
+.bottom-right {
+  position: absolute;
+  top: 1070px;
+  right: 16px;
+}

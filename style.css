@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url("img/rainbowstr.gif");
+}
+.container {
+  margin: auto;
+  width: 300px;
+  margin-top: 190px;
+}
+.click-here {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* .img-random {
+  position: absolute;
+  bottom: 30px;
+  right: 50px;
+}
+.far {
+  width: 200px;
+  height: 160px;
+} */
